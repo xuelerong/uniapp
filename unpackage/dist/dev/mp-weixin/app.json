@@ -1,0 +1,47 @@
+{
+        "pages": [
+                "pages/index/index",
+                "pages/Home/home/home",
+                "pages/Category/category/category",
+                "pages/Cart/cart/cart",
+                "pages/Profile/profile/profile",
+                "components/search/search"
+        ],
+        "subPackages": [],
+        "window": {
+                "navigationBarTextStyle": "black",
+                "navigationBarTitleText": "uni-app",
+                "navigationBarBackgroundColor": "#87ceeb"
+        },
+        "tabBar": {
+                "selectedColor": "#87ceeb",
+                "list": [
+                        {
+                                "pagePath": "pages/Home/home/home",
+                                "iconPath": "static/icons/index.png",
+                                "selectedIconPath": "static/icons/indexo.png",
+                                "text": "首页"
+                        },
+                        {
+                                "pagePath": "pages/Category/category/category",
+                                "iconPath": "static/icons/fenlei.png",
+                                "selectedIconPath": "static/icons/fenleio.png",
+                                "text": "分类"
+                        },
+                        {
+                                "pagePath": "pages/Cart/cart/cart",
+                                "iconPath": "static/icons/cart.png",
+                                "selectedIconPath": "static/icons/cartone.png",
+                                "text": "购物车"
+                        },
+                        {
+                                "pagePath": "pages/Profile/profile/profile",
+                                "iconPath": "static/icons/my.png",
+                                "selectedIconPath": "static/icons/myo.png",
+                                "text": "个人"
+                        }
+                ]
+        },
+        "usingComponents": {},
+        "sitemapLocation": "sitemap5.json"
+}

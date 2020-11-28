@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": " ",
+  "enablePullDownRefresh": false,
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "usingComponents": {
+    "u-circle-progress": "/uview-ui/components/u-circle-progress/u-circle-progress",
+    "u-field": "/uview-ui/components/u-field/u-field",
+    "u-button": "/uview-ui/components/u-button/u-button",
+    "u-popup": "/uview-ui/components/u-popup/u-popup"
+  }
+}

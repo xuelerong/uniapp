@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": " ",
+  "usingComponents": {
+    "u-field": "/uview-ui/components/u-field/u-field",
+    "u-button": "/uview-ui/components/u-button/u-button",
+    "u-toast": "/uview-ui/components/u-toast/u-toast",
+    "u-circle-progress": "/uview-ui/components/u-circle-progress/u-circle-progress"
+  }
+}

@@ -1,0 +1,23 @@
+
+.pxx_navigator {
+	height: 60rpx;
+	background-color: #b52f4c;
+	padding: 10rpx;
+}
+navigator {
+	font-size: 30rpx;
+	margin: 0 auto;
+	width: 98%;
+	height: 60rpx;
+	background-color: #FFFFFF;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	line-height: 60rpx;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	border-radius: 10rpx;
+	color: #666666;
+}
+

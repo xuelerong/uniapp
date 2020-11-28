@@ -1,0 +1,1 @@
+<view><u-button bind:click="__e" vue-id="63cce5b2-1" data-event-opts="{{[['^click',[['checkout']]]]}}" bind:__l="__l" vue-slots="{{['default']}}">退出</u-button></view>

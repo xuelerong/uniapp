@@ -1,0 +1,1 @@
+<view><view><search vue-id="30175fce-1" bind:__l="__l"></search></view><view><u-swiper vue-id="30175fce-2" list="{{banner}}" effect3d="{{true}}" height="330" effect3d-previous-margin="60" bg-color="#ffffff" bind:__l="__l"></u-swiper></view></view>
